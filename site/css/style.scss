@@ -2,8 +2,16 @@
 
 /* custom styles */
 
+body {
+	background:#000;
+}
+
 .jumbotron {
 	background:url('../img/nature1.jpg') no-repeat;
 	color:#fff;
+}
 
+.col-md-4 {
+	border:1px solid #fff;
+	min-height:1000px;
 }
