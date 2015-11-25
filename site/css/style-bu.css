@@ -5795,9 +5795,5 @@ button.close {
 @media print {
   .hidden-print {
     display: none !important; } }
-/* custom styles */
-.jumbotron {
-  background: url("../img/nature1.jpg") no-repeat;
-  color: #fff; }
 
 /*# sourceMappingURL=style.css.map */
